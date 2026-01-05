@@ -1,0 +1,3 @@
+- [x] Add Google OAuth strategy to authController.js
+- [x] Add auth routes to server.js
+- [ ] Test login functionality
